@@ -1,2 +1,2 @@
 # machine-learning
-My repository
+https://github.com/har7sh/machine-learning.git
