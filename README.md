@@ -1,2 +1,2 @@
 # machine-learning
-https://github.com/har7sh/machine-learning.git
+this is SEPM practical no.3 roll no:640
